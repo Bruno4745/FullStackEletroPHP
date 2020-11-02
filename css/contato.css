@@ -1,0 +1,40 @@
+.contato {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.forma_contato {
+    width: 45%;
+    display: inline-block;
+    font-size: large;
+}
+
+.forma_contato img {
+    width: 50px;
+}
+
+.formulario {
+    margin-left: 8px;
+}
+
+.campo_formulario input, textarea{
+    width: 30%;
+}
+
+.botao{
+    width: 116px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0); 
+    color: white;
+    font-size: medium;
+    border: none;
+    outline: none;
+    text-align: center;
+}
+
+.botao:hover {
+    background-color: rgb(220, 0, 0);    
+    font-weight: bolder;
+    outline: none;
+}

@@ -1,0 +1,9 @@
+.lojas {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.loja_unidade {
+    width: 32%;
+    display: inline-block;
+}

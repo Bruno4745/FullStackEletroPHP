@@ -1,0 +1,46 @@
+.form_compra {
+    margin-left: 15%;
+}
+
+.form_compra h4{
+    margin-bottom: 5px;
+}
+
+.caixa_texto{
+    width: 350px;
+}
+
+.botao{
+    width: 116px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0); 
+    color: white;
+    font-size: medium;
+    border: none;
+    outline: none;
+    text-align: center;
+}
+
+.botao:hover {
+    background-color: rgb(220, 0, 0);    
+    font-weight: bolder;
+    outline: none;
+}
+
+.imagem {
+    display: inline-block;
+    margin-top: 10%;
+    margin-right: 50px;
+    vertical-align: top;
+    width: 200px;
+}
+
+.imagem img{
+    width: 100%;
+}
+
+.form {
+    display: inline-block;
+    background-color: whitesmoke;
+}

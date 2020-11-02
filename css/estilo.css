@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+header, main {
+    margin: 8px;
+}
+
+#menu {
+    width: 100%;
+    background-color: rgb(242, 8, 8);
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    width: 24%;
+    display: inline-block;
+    text-align: center;
+} 
+
+#menu a:hover {
+    font-weight: bold;
+}
+
+#menu a img {
+    width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#rodape {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#rodape h4 {
+    color: red;
+}
+
+#rodape img {
+    width: 25%;
+}
+
+#rodape p {
+    font-size: small;
+}
